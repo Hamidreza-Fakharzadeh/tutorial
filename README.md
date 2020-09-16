@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fc154ac3-9a2d-4cd6-aeaa-504d49f6a071/deploy-status)](https://app.netlify.com/sites/persian-school/deploys)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
