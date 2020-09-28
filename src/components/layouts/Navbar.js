@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../../logo.svg';
-import { Link, BrowserRouter as Router } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
 	return (
@@ -26,17 +26,17 @@ function Navbar() {
 				<ul className="navbar-nav m-auto">
 					<li className="nav-item active">
 						<Link className="nav-link text-white text-uppercase ml-5" to="/">
-							Home&nbsp;<i class="fas fa-home" />
+							Home&nbsp;<i className="fas fa-home" />
 							<span className="sr-only">(current)</span>
 						</Link>
 					</li>
-					<li class="nav-item">
-						<Link class="nav-link text-white text-uppercase ml-5" to="/News">
+					<li className="nav-item">
+						<Link className="nav-link text-white text-uppercase ml-5" to="/News">
 							news
 						</Link>
 					</li>
-					<li class="nav-item">
-						<Link class="nav-link text-white text-uppercase ml-5" to="/Contacts">
+					<li className="nav-item">
+						<Link className="nav-link text-white text-uppercase ml-5" to="/Contacts">
 							contact us
 						</Link>
 					</li>
