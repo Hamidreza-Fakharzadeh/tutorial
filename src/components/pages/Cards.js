@@ -1,9 +1,9 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext } from 'react';
 import { UserContext } from '../../UserContext';
 import { Link } from 'react-router-dom';
 
 function Cards() {
-	const { value, setValue, clickId, setClickId } = useContext(UserContext);
+	const { value, clickId, setClickId } = useContext(UserContext);
 
 	console.log(clickId);
 	return (

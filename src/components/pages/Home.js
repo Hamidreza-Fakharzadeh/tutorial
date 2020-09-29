@@ -5,7 +5,7 @@ function Home() {
 	return (
 		<div>
 			<Cards />
-			<h2>Pesian School</h2>
+			<h2>Test Project</h2>
 		</div>
 	);
 }

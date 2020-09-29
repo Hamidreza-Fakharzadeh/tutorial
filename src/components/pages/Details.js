@@ -5,7 +5,7 @@ import styled from 'styled-components';
 function Details() {
 	const { value, clickId } = useContext(UserContext);
 	const filterValue = value[0].filter((result) => {
-		return result.id == clickId;
+		return result.id === clickId;
 	});
 
 	return (
@@ -87,6 +87,7 @@ function Details() {
 						return (
 							<div className="tab-pane" id="map" role="tabpanel">
 								<iframe
+									title="uni"
 									src={way.maps}
 									style={{
 										border: '0',

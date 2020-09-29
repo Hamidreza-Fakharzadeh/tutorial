@@ -78,7 +78,7 @@ function Footer() {
 					</div>
 					<div className="footer-bottom">
 						<p className="text-xs-center">
-							&copy;{new Date().getFullYear()} Kherad Persian School-All right Reserved
+							&copy;{new Date().getFullYear()} Test Project - All right Reserved
 						</p>
 					</div>
 				</div>
