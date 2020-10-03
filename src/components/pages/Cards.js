@@ -11,9 +11,9 @@ function Cards() {
 			<div className="row">
 				{value[0].map((element, id) => {
 					return (
-						<div className="col-10 col-lg-4 mx-auto mb-5" key={element.id}>
-							<div className="card" style={{ width: '18rem' }}>
-								<img src={element.img} alt={element.headerTitle} className="card-img-top" />
+						<div className="col-10 col-md-6 col-lg-4 mx-auto mb-5" key={element.id}>
+							<div className="card align-self-center">
+								<img src={element.img} alt={element.headerTitle} className="card-img-top"/>
 								<div className="card-body">
 									<h3 className="card-title text-uppercase">{element.headerTitle}</h3>
 									<h5 className="card-title">{element.headerSubTitle}</h5>
@@ -32,6 +32,7 @@ function Cards() {
 				})}
 			</div>
 		</div>
+		
 	);
 }
 

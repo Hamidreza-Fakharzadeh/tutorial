@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import { UserContext } from '../../UserContext';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 function Details() {
 	const { value, clickId } = useContext(UserContext);
@@ -48,15 +49,15 @@ function Details() {
 					<ul className="nav nav-tabs">
 						{/* About Place Link */}
 						<li className="nav-item">
-							<a href="#aboutPlace" className="nav-link active" role="tab" data-toggle="tab">
+							<Link to="#about-place" className="nav-link active" role="tab" data-toggle="tab">
 								About Place
-							</a>
+							</Link>
 						</li>
 						{/* Reviews Link */}
 						<li className="nav-item">
-							<a href="#reviews" className="nav-link" role="tab" data-toggle="tab">
+							<Link to="#reviews" className="nav-link" role="tab" data-toggle="tab">
 								Reviews
-							</a>
+							</Link>
 						</li>
 						{/* Map Link */}
 						<li className="nav-item">
@@ -70,7 +71,7 @@ function Details() {
 						{/* About Place Tab */}
 						{filterValue.map((place) => {
 							return (
-								<div id="aboutPlace" className="tab-pane in active text-center mt-5" role="tabpanel">
+								<div id="about-place" className="tab-pane in active text-center mt-5" role="tabpanel">
 									<h2 className="mb-3">{place.title}</h2>
 									<p>{place.description}</p>
 									<img src={place.img} alt={place.title} className="img-thumbnail img-fluid" />
@@ -80,7 +81,7 @@ function Details() {
 					</div>
 					{/* Reviews */}
 					<div className="tab-pane" id="reviews" role="tabpanel">
-						Reviews Content
+					'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi a voluptatem nostrum dolore necessitatibus, nisi provident placeat officia rerum saepe laudantium quod sunt animi cum porro eligendi molestias, ut quisquam.','Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi a voluptatem nostrum dolore necessitatibus, nisi provident placeat officia rerum saepe laudantium quod sunt animi cum porro eligendi molestias, ut quisquam.',
 					</div>
 					{/* Map */}
 					{filterValue.map((way) => {

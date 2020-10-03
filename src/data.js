@@ -8,7 +8,7 @@ export const placeInfo = [
 		title: 'Molestias officia excepturi',
 		description:
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates qui voluptate odio quod doloremque unde reprehenderit velit quaerat. Deserunt voluptatem natus suscipit aliquid, eligendi sequi dicta porro? Laudantium, libero est?',
-		img: '.././images/garaj.jpg',
+		img: '.././images/tretyakovka.jpg',
 		maps:
 			'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2477.906439920348!2d-0.2399109846561228!3d51.60660286126657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487616d6495d6f3b%3A0xdd41d5eeabd0555e!2sRowlands%20Cl%2C%20London%20NW7%202DN!5e0!3m2!1sen!2suk!4v1600991561693!5m2!1sen!2suk'
 	},
@@ -21,9 +21,9 @@ export const placeInfo = [
 		title: 'Lorem unitye',
 		description:
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Est incidunt quo veritatis ad, nobis dolorum corrupti excepturi, natus fugit necessitatibus nihil nam minus explicabo debitis quod accusamus consectetur a eaque.',
-		img: '.././images/mamm.jpg',
+		img: '.././images/mars.jpg',
 		maps:
-			'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1530.8494832689219!2d37.59693065124095!3d55.74157162835216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54baea59877dd%3A0xb4d0c3eb557a1c98!2zwqvQnNCe0KHQmtCe0JLQodCa0JjQmSDQlNCe0Jwg0KTQntCi0J7Qk9Cg0JDQpNCY0JjCuw!5e0!3m2!1sru!2sru!4v1547845790316'
+		"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39596.53970280815!2d-0.11669196585861952!3d51.66379593253704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761878d288422d%3A0x19b8e39ceea4fef9!2sEnfield!5e0!3m2!1sen!2suk!4v1601762819143!5m2!1sen!2suk"
 	},
 	{
 		id: 3,
@@ -37,7 +37,7 @@ export const placeInfo = [
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium labore modi error sed ad quis obcaecati aliquid officia rerum alias quia voluptatum, consequatur at optio quas nisi autem necessitatibus nemo!',
 		img: '.././images/pushkin.jpg',
 		maps:
-			'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17967.866965087615!2d37.60335432286895!3d55.74141791432578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb9384e1a3b2da434!2z0JPQvtGB0YPQtNCw0YDRgdGC0LLQtdC90L3Ri9C5INC80YPQt9C10Lkg0JAu0KEuINCf0YPRiNC60LjQvdCw!5e0!3m2!1sru!2sru!4v1547878731704'
+		"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39596.53970280815!2d-0.11669196585861952!3d51.66379593253704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761f18fbf4816b%3A0x38135499094c94ef!2sBush%20Hill%20Park!5e0!3m2!1sen!2suk!4v1601762996534!5m2!1sen!2suk"
 	},
 	{
 		id: 4,
@@ -49,19 +49,19 @@ export const placeInfo = [
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda quibusdam nostrum dicta vitae, illo numquam autem excepturi rem unde eos exercitationem perferendis expedita, blanditiis eaque facilis explicabo aliquid doloribus rerum?',
 		img: '.././images/tretyakovka.jpg',
 		maps:
-			'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.9848620916428!2d37.618675215617316!3d55.741392000339864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afe32078357%3A0xa50d6e8b9a7b028f!2z0JPQvtGB0YPQtNCw0YDRgdGC0LLQtdC90L3QsNGPINCi0YDQtdGC0YzRj9C60L7QstGB0LrQsNGPINCz0LDQu9C10YDQtdGP!5e0!3m2!1sru!2sru!4v1547878659681'
+		"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19806.156840142783!2d-0.1955170969657961!3d51.645744328218285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761781b4cc4a43%3A0x413b2287c1d35ebc!2sBarnet%20Playing%20Fields%2C%20London%20Loop%2C%20Barnet%20EN5%202DA!5e0!3m2!1sen!2suk!4v1601763123568!5m2!1sen!2suk" 
 	},
 	{
 		id: 5,
 		headerTitle: 'Earum fugiat',
 		headerSubTitle: 'Fugiat',
-		headerText: 'Illo mollitia',
+		headerText: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda illo numquam commodi nihil nam odit, minima perferendis delectus, quibusdam modi recusandae suscipit nobis cumque, veniam similique voluptas totam quasi mollitia.',
 		title: 'Consequuntur quo',
 		description:
 			'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda illo numquam commodi nihil nam odit, minima perferendis delectus, quibusdam modi recusandae suscipit nobis cumque, veniam similique voluptas totam quasi mollitia.',
 		img: '.././images/dom-fotografii.jpg',
 		maps:
-			'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.9763498372804!2d37.59654121561725!3d55.741539900328505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54baea59877dd%3A0xb4d0c3eb557a1c98!2zwqvQnNCe0KHQmtCe0JLQodCa0JjQmSDQlNCe0Jwg0KTQntCi0J7Qk9Cg0JDQpNCY0JjCuw!5e0!3m2!1sru!2sru!4v1547878587877'
+		"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2475.1782186600813!2d-0.1899177846919639!3d51.65657330760682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487618274963381b%3A0xebf87a820080819f!2sBarnet%20EN5%205QG!5e0!3m2!1sen!2suk!4v1601763255257!5m2!1sen!2suk"
 	},
 	{
 		id: 6,
@@ -74,7 +74,7 @@ export const placeInfo = [
 			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nostrum. Non, cupiditate facere quidem quibusdam atque aliquam corrupti minus esse dolor doloremque, vel aut. Quae eos quo consequuntur id commodi?',
 		img: '.././images/mars.jpg',
 		maps:
-			'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2244.397087990157!2d37.62463341561838!3d55.76897499821247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54a68e2e342b7%3A0x934bc1e9948c826b!2z0KbQtdC90YLRgCDQnNCw0YDRgQ!5e0!3m2!1sru!2sru!4v1547878491776'
+		"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9909.224209456886!2d-0.1405369644009447!3d51.61760259772258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487619722da3696b%3A0x42213b84714c9308!2sArnos%20Grove%2C%20London!5e0!3m2!1sen!2suk!4v1601763491413!5m2!1sen!2suk"
 	}
 ];
 
@@ -127,7 +127,7 @@ export const detailInfo = {
 		'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates qui voluptate odio quod doloremque unde reprehenderit velit quaerat. Deserunt voluptatem natus suscipit aliquid, eligendi sequi dicta porro? Laudantium, libero est?',
 	img: '.././images/garaj.jpg',
 	maps:
-		'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123.3850145412064!2d37.600589158335865!3d55.72774864513666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54b0be3ac9d11%3A0x735806d25b3bdc55!2z0JzRg9C30LXQuSDRgdC-0LLRgNC10LzQtdC90L3QvtCz0L4g0LjRgdC60YPRgdGB0YLQstCwIMKr0JPQsNGA0LDQtsK7!5e0!3m2!1sru!2sru!4v1547763408711'
+	"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9907.267885198222!2d-0.15047741439497217!3d51.62656184511629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487619a7a7831d37%3A0xc840994d777e761e!2sEast%20Barnet%2C%20London!5e0!3m2!1sen!2suk!4v1601763359747!5m2!1sen!2suk" 
 };
 
 export const news = [
