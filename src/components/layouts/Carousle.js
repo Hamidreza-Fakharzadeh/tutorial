@@ -6,7 +6,7 @@ import img3 from '../pictures/img3.jpg';
 function Carousle() {
 	return (
 		
-		<div id="carouselExampleCaptions" className="container carousel slide mt-2 padding-right-lg" data-ride="carousel">
+		<div id="carouselExampleCaptions" className="container carousel slide mt-2" data-ride="carousel">
 			<ol className="carousel-indicators">
 				<li data-target="#carouselExampleCaptions" data-slide-to="0" className="active" />
 				<li data-target="#carouselExampleCaptions" data-slide-to="1" />
